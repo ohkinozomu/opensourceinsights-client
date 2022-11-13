@@ -29,4 +29,8 @@ func TestCount(t *testing.T) {
 	if err != nil {
 		t.Fatal(err)
 	}
+	_, err = c.DependenciesWithGraph()
+	if err != nil {
+		t.Fatal(err)
+	}
 }
