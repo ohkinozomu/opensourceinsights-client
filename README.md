@@ -1,3 +1,7 @@
+# Archived
+
+This library is based on an unofficial API, but [an official API with gRPC has been released](https://security.googleblog.com/2023/04/announcing-depsdev-api-critical.html).
+
 # opensourceinsights-client
 
 Unofficial [Open Source Insights](https://deps.dev/) client library
